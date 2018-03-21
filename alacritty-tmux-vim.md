@@ -22,7 +22,7 @@ curl https://sh.rustup.rs -sSf | sh
 ```
 Then install Alacritty by cloning the git repo. I put it in my user root like this:
 ```bash
-git clone https://github.com/jwilm/alacritty.git ~/
+git clone https://github.com/jwilm/alacritty.git ~/alacritty
 ```
 Then head into that directory and build the application:
 ```bash
